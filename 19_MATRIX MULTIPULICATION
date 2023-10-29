@@ -1,0 +1,11 @@
+import java.util.*;
+class Matrix
+{
+public static void main(String args[])
+{
+int i,j,k,r,c;
+Scanner input=new Scanner(System.in); 
+System.out.println("enter the rows:");
+r=input.nextInt(); 
+}
+}
